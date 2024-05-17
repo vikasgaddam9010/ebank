@@ -1,0 +1,70 @@
+.error-msg {
+  color: #ff0b37;
+  text-align: center;
+}
+.btn-primary {
+  margin-top: 40px;
+  width: 100%;
+  color: #ffffff;
+  border: none;
+  background-color: #1565d8;
+  padding: 15px;
+  font-weight: bold;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.label {
+  color: #183b56;
+  font-weight: bold;
+}
+
+.input {
+  padding: 10px;
+  color: #183b56;
+  border: 1px solid #5a7184;
+  border-radius: 8px;
+  margin-top: 10px;
+}
+.input-and-label-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.right-container {
+  min-width: 350px;
+  width: 45%;
+  background-color: #ffffff;
+  border-radius: 20px;
+  padding: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  display: flex;
+  flex-direction: column;
+}
+
+.website-logo {
+  margin: 50px;
+  width: 50%;
+  height: 80%;
+  align-self: center;
+}
+.left-and-form-conatiner {
+  min-width: 1200px;
+  width: 80%;
+  height: 80%;
+  background-color: #e0eefe;
+  border-radius: 20px;
+  display: flex;
+}
+
+.bg-main-container {
+  height: 100vh;
+  width: 100vw;
+  background-image: linear-gradient(to bottom, #152850, #183b56);
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

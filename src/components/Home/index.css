@@ -1,0 +1,35 @@
+.card-img {
+  width: 500px;
+}
+.head-text {
+  margin-top: 0px;
+  font-size: 45px;
+  color: #ffffff;
+  margin-bottom: 40px;
+}
+.card-head-container {
+  height: 80vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.button-logout {
+  background-color: transparent;
+  border: 1px solid #c3cad9;
+  color: #c3cad9;
+  padding: 10px;
+}
+.nav {
+  width: 100%;
+  padding: 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.bg-container {
+  height: 100vh;
+  width: 100vw;
+  background-image: linear-gradient(to bottom, #152850, #183b56);
+}
